@@ -1,6 +1,6 @@
 # Final project proposal
 
-### California's animal migrations
+### California animal migrations
 
 This semester, I have a rough idea of visualizing animal migration (and the barriers to it) in California. My initial plan was to look at three species: the gray whale, the monarch butterfly, and a shorebird. But I've realized this is a little too ambitious. By far, the most data available is for marine mammals.
 
